@@ -17,6 +17,7 @@ public class FridayWeek2 {
         // TODO code application logic here
         System.out.println ("hi");
         //showing other commit
+        //making a change 
     }
     
 }
