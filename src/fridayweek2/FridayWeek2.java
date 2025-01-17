@@ -13,6 +13,7 @@ public class FridayWeek2 {
     /**
      * @param args the command line arguments
      */
+    //demonstrating pull
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println ("hi");
